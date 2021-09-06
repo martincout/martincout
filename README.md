@@ -6,8 +6,7 @@
 - I'm from Argentina 🇦🇷
 - 📚 I’m currently studying the bachelor's degree in Information Systems
 - 🔬 My main interests are Developing API's and Backend Design.
-- 💕 I love making games
-- ☕ And Coffee
+- 💕 I love making games as a hobby
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martincout&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martincout&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
