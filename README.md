@@ -7,7 +7,7 @@
 - 📚 I’m currently studying the bachelor's degree in Information Systems
 - 🔬 My main interests are Developing API's and Backend Design.
 - ☘️ Learning NodeJS and C# currently
-- Also Working with ReactJS, SCSS, C# Core, and learning Ciber Security.
+- ⛰️ Also Working with ReactJS, SCSS, C# Core, and learning Ciber Security.
 - 💕 I love making games as a hobby
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martincout&show_icons=true&theme=gruvbox)
