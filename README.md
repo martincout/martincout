@@ -5,6 +5,7 @@
 
 - I'm from Argentina 🇦🇷
 - 📚 I’m currently studying the bachelor's degree in Information Systems
+- 💕 I love Challenges!
 - 🔬 My main interests are Developing API's and the Backend Development.
 - ☘️ Learning NodeJS and C# currently.
 - ⛰️ Also Working with ReactJS, SCSS, C# Core, and learning Ciber Security.
