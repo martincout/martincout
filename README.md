@@ -3,7 +3,7 @@
 
 ## I'm a Fullstack Web Developer 💻 And Game Developer as a hobby 🎮 
 
-- I'm from Argentina
+- ⛰️ I'm from Argentina
 - 📚 I’m currently studying the bachelor's degree in Information Systems
 - ⚽ I love Challenges!
 - 🔬 My main interests are Developing API's and the Backend Development.
