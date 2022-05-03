@@ -7,7 +7,7 @@
 - ⚽ I love Challenges!
 - 🔬 My current interests are Developing API's and Web Security.
 - ☘️ Learning NodeJS and C# currently.
-- ⛰️ Also Working with ReactJS, SCSS, TypeScript, Angular, .NET, and learning Web Security.
+- ⛰️ Also Working with ReactJS, SCSS, TypeScript, Angular, .NET, and learning Web Services.
 - 💕 I love making videogames as a hobby. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martincout&show_icons=true&theme=gruvbox)
