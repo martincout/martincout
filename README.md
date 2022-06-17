@@ -4,7 +4,6 @@
 ## I'm a Fullstack Web Developer 💻 and Game Developer as a hobby 🎮 
 
 - ⛰️ I'm from Argentina
-- ⚽ I love Challenges!
 - 🔬 My current interests are Developing API's and Web Security.
 - ☘️ Learning NodeJS and C# currently.
 - ⛰️ Also Working with ReactJS, SCSS, TypeScript, Angular, .NET, C#, and learning Web Services.
