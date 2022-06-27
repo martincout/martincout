@@ -1,4 +1,4 @@
-# Hi there! I'm Martín :D
+# Hi there! I'm Martín!
 ![alt text](https://31.media.tumblr.com/11ebcfd6f503c64033dd3b47dd77efd6/tumblr_mt0hkh9Bsu1rzek2wo1_1280.gif)
 
 ## I'm a Fullstack Web Developer 💻 and Game Developer as a hobby 🎮 
