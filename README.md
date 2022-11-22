@@ -4,7 +4,7 @@
 
 - ⛰️ I'm from Argentina
 - 🔬 My current interests are Developing API's and Web Security.
-- ☘️ Learning NodeJS and C# currently.
+- ☘️ Learning NodeJS and C# .NET currently.
 - ⛰️ Also Working with ReactJS, SCSS, TypeScript, Angular, .NET, C#, and learning Web Services.
 - 💕 I love making videogames as a hobby.
 
