@@ -1,6 +1,6 @@
 # Hi there! I'm Martín!
 
-## I'm a Fullstack Web Developer 💻 and Game Developer as a hobby 🎮 
+## I'm a Fullstack Web Developer Angular .NET 💻 and Game Developer as a hobby 🎮 
 
 - ⛰️ I'm from Argentina
 - 🔬 My current interests are Developing API's and Web Security.
