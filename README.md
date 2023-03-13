@@ -5,7 +5,7 @@
 - ⛰️ I'm from Argentina
 - 🔬 My current interests are Developing API's and Web Security.
 - ☘️ Learning NodeJS and C# .NET currently.
-- ⛰️ Also Working with ReactJS, SCSS, TypeScript, Angular, .NET, C#, and learning Web Services.
+- ⛰️ Also Working with Angular, React, SCSS, TypeScript, .NET, C#, and learning Web Services.
 - 💕 I love making videogames as a hobby.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martincout&show_icons=true&theme=gruvbox)
